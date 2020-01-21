@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e334b1f6-bd92-4fbc-ad4b-26f905d1ffc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Fly/src/no/larseknu/hiof/flyoversikt/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fly/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fly/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fly/src/no/hiof/larseknu/Fly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fly/src/no/hiof/larseknu/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Fly/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Fly/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Fly/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Fly/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Transportfly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Transportfly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fly_Transportfly_Polymorfi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fly_Transportfly_Polymorfi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fly_Transportfly_Polymorfi/src/no/hiof/larseknu/flyoversikt/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fly_Transportfly_Polymorfi/src/no/hiof/larseknu/flyoversikt/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fly_Transportfly_Polymorfi/src/no/hiof/larseknu/flyoversikt/Transportfly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fly_Transportfly_Polymorfi/src/no/hiof/larseknu/flyoversikt/Transportfly.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
+            <state relative-caret-position="936">
               <caret line="39" column="105" selection-start-line="39" selection-start-column="105" selection-end-line="39" selection-end-column="105" />
             </state>
           </provider>
@@ -34,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Transportfly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="384">
               <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
             </state>
           </provider>
@@ -44,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Fly.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -82,35 +76,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Fly_Transportfly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fly_Transportfly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fly_Transportfly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fly_Transportfly" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fly_Transportfly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fly_Transportfly" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flyoversikt" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548079347966" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,10 +129,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-367" width="2560" height="1361" extended-state="6" />
-    <editor active="true" />
+    <frame x="1680" y="23" width="2560" height="1361" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17173739" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17373899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -165,7 +141,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290008" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -187,14 +163,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
+        <state relative-caret-position="936">
           <caret line="39" column="105" selection-start-line="39" selection-start-column="105" selection-end-line="39" selection-end-column="105" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Transportfly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="384">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
@@ -202,9 +178,80 @@
     <entry file="file://$PROJECT_DIR$/src/no/hiof/larseknu/flyoversikt/Fly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
