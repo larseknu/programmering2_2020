@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1X4PAEGpqhwTwHiGGvcnzwqFuBm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AfterLecture/02_Figur_Static" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.figurarv.Main" />
+      <module name="Forelesning07_Uke05_Figur_Static" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
+      <created>1548328559074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548328559074</updated>
+      <workItem from="1580302249315" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1580302316311">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="456" key="FileChooserDialogImpl/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302316311" />
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1580302317396">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302317396" />
+    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1580302317395">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.center/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302317395" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1580302317395">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.left/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302317395" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1580302317396">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.right/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302317396" />
+    <state x="760" y="275" key="SettingsEditor" timestamp="1580302303548">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="275" key="SettingsEditor/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302303548" />
+  </component>
+</project>
