@@ -4,11 +4,11 @@ package no.hiof.larseknu.figurarv;
  * Klasse som representerer en generisk figur
  */
 public class Figur {
-    private final String standardFarge = "Blue";
+    private final static String STANDARD_FARGE = "Blue";
     private String farge;
 
     public Figur() {
-        farge = standardFarge;
+        farge = STANDARD_FARGE;
     }
 
     public Figur(String farge) {

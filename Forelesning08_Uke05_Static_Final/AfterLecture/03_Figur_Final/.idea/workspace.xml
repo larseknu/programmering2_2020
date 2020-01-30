@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +113,7 @@
       <updated>1548328559074</updated>
       <workItem from="1580302318924" duration="650000" />
       <workItem from="1580304235851" duration="36000" />
-      <workItem from="1580410168910" duration="289000" />
+      <workItem from="1580410168910" duration="350000" />
     </task>
     <servers />
   </component>
