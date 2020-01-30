@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
+    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,15 +34,62 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../programmering2_2020_secret/Oblig3_ProposedSolution" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.figurarv.Main" />
-      <module name="Forelesning07_Uke05_Figur_Static" />
+      <module name="Forelesning08_Uke05_Figur_Static_Final" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Forelesning08_Uke05_Figur_Static_Final" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Forelesning08_Uke05_Figur_Static_Final" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +121,7 @@
       <updated>1548328559074</updated>
       <workItem from="1580302318924" duration="650000" />
       <workItem from="1580304235851" duration="36000" />
+      <workItem from="1580410168910" duration="289000" />
     </task>
     <servers />
   </component>
@@ -73,6 +129,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1085" y="385" key="#com.intellij.ide.util.MemberChooser" timestamp="1580410389655">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="385" key="#com.intellij.ide.util.MemberChooser/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580410389655" />
     <state x="1060" y="456" key="FileChooserDialogImpl" timestamp="1580304267573">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -93,9 +153,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="399" key="GridCell.Tab.0.right/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580302968647" />
-    <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1580304239998">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3216" y="651" key="com.intellij.ide.util.TipDialog" timestamp="1580410401234">
+      <screen x="2560" y="246" width="1920" height="1160" />
     </state>
-    <state x="976" y="525" key="com.intellij.ide.util.TipDialog/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580304239998" />
+    <state x="3216" y="651" key="com.intellij.ide.util.TipDialog/2560.246.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1580410401234" />
   </component>
 </project>
