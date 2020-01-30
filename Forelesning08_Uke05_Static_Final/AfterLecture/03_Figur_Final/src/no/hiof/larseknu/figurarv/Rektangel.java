@@ -9,12 +9,6 @@ public class Rektangel extends Figur {
         this.side2 = side2;
     }
 
-    public Rektangel(double side1, double side2, String farge) {
-        super(farge);
-        this.side1 = side1;
-        this.side2 = side2;
-    }
-
     // Satt til final, så denne metoden kan ikke @Overrides av klasser som arver fra Rektangel-klassen
     @Override
     public final double areal() {

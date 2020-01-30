@@ -32,5 +32,11 @@ public class Main {
         else {
             System.out.println(sirkelen + " er større enn " + rektangelet);
         }
+
+
+        // Skriver ut en linje med * for å skille på utskriftene i terminalen
+        System.out.println("\n*************Data i meter************");
+        System.out.println(String.format("%s sitt areal: %.2f og omkrets: %.2f", rektangelet, rektangelet.areal(), rektangelet.omkrets()));
+        System.out.println(String.format("%s sitt areal i meter: %.2f og omkrets i meter: %.2f", rektangelet, rektangelet.arealIMeter(), rektangelet.omkretsIMeter()));
     }
 }
