@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
+    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/01_Figur_Abstract/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BeforeLecture/01_Figur_Abstract/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/01_Figur_Abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BeforeLecture/01_Figur_Abstract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/01_Figur_Abstract/Forelesning07_Uke05_Figur_Static.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/02_Figur_Interface/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BeforeLecture/02_Figur_Interface/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/02_Figur_Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BeforeLecture/02_Figur_Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/02_Figur_Interface/Forelesning07_Uke05_Figur_Static.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/03_Figur_Interface_Comparable/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BeforeLecture/03_Figur_Interface_Comparable/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/03_Figur_Interface_Comparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BeforeLecture/03_Figur_Interface_Comparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BeforeLecture/03_Figur_Interface_Comparable/Forelesning07_Uke05_Figur_Static.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +49,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.figurarv.Main" />
-      <module name="Forelesning07_Uke05_Figur_Static" />
+      <module name="Forelesning09_Uke06_Figur_Interface_Comparable" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Run" />

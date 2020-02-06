@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/beforelecture/FigurArv/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Forelesning07_Uke05_ArrayList_Typecasting_Foreach/beforelecture/FigurArv/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.figurarv.Main" />
-      <module name="Forelesning07_Uke05_Figur_Static" />
+      <module name="Forelesning09_Uke06_Figur_Abstract" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Run" />
@@ -87,9 +85,10 @@
       <screen x="1680" y="23" width="2560" height="1361" />
     </state>
     <state x="2192" y="82" key="SettingsEditor/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580804804077" />
-    <state x="342" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1580805467675">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="342" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1580993771635">
+      <screen x="0" y="23" width="1680" height="975" />
     </state>
+    <state x="342" y="280" key="com.intellij.ide.util.TipDialog/0.23.1680.975@0.23.1680.975" timestamp="1580993771635" />
     <state x="342" y="294" key="com.intellij.ide.util.TipDialog/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805467675" />
   </component>
 </project>
