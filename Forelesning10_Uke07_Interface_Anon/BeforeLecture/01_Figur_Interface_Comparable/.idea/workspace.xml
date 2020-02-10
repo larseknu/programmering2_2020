@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/01_Figur_Abstract/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AfterLecture/01_Figur_Abstract/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/01_Figur_Abstract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AfterLecture/01_Figur_Abstract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/01_Figur_Abstract/Forelesning07_Uke05_Figur_Static.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/02_Figur_Interface/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AfterLecture/02_Figur_Interface/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/02_Figur_Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AfterLecture/02_Figur_Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AfterLecture/02_Figur_Interface/Forelesning07_Uke05_Figur_Static.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1XKrIhQ2v5nIk2GJFxNquUgxIHF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="no.hiof.larseknu.figurarv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.larseknu.figurarv.Main" />
+      <module name="Forelesning09_Uke06_Figur_Interface_Comparable" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1992adfd-78f8-484e-a1d3-7f54f7d08430" name="Default Changelist" comment="" />
+      <created>1548328559074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548328559074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2685" y="284" key="#com.intellij.ide.util.MemberChooser" timestamp="1580805885884">
+      <screen x="1680" y="23" width="2560" height="1361" />
+    </state>
+    <state x="2685" y="284" key="#com.intellij.ide.util.MemberChooser/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805885884" />
+    <state width="2498" height="362" key="GridCell.Tab.0.bottom" timestamp="1580805958932">
+      <screen x="1680" y="23" width="2560" height="1361" />
+    </state>
+    <state width="2498" height="362" key="GridCell.Tab.0.bottom/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805958932" />
+    <state width="2498" height="362" key="GridCell.Tab.0.center" timestamp="1580805958931">
+      <screen x="1680" y="23" width="2560" height="1361" />
+    </state>
+    <state width="2498" height="362" key="GridCell.Tab.0.center/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805958931" />
+    <state width="2498" height="362" key="GridCell.Tab.0.left" timestamp="1580805958931">
+      <screen x="1680" y="23" width="2560" height="1361" />
+    </state>
+    <state width="2498" height="362" key="GridCell.Tab.0.left/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805958931" />
+    <state width="2498" height="362" key="GridCell.Tab.0.right" timestamp="1580805958931">
+      <screen x="1680" y="23" width="2560" height="1361" />
+    </state>
+    <state width="2498" height="362" key="GridCell.Tab.0.right/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805958931" />
+    <state x="2192" y="82" key="SettingsEditor" timestamp="1580805686121">
+      <screen x="1680" y="23" width="2560" height="1361" />
+    </state>
+    <state x="2192" y="82" key="SettingsEditor/4240.23.1920.1177/1680.23.2560.1361/0.23.1680.1027@1680.23.2560.1361" timestamp="1580805686121" />
+  </component>
+</project>
