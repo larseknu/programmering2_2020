@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'no.hiof.larseknu'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 13
+
+repositories {
+    mavenCentral()
+}
+
+wrapper { gradleVersion = '6.0' }
+
+dependencies {
+    compile 'io.javalin:javalin:3.7.0'
+    compile 'org.slf4j:slf4j-simple:1.7.26'
+
+    compile 'org.webjars.npm:vue:2.6.10'
+    compile 'com.fasterxml.jackson.module:jackson-module-kotlin:2.9.9'
+}
