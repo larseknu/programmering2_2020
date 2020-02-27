@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Random Anon: " + randomNumberAnon.doMath());
 
         // Lambda for å generere et tilfeldig tall fra 0 opp til n
-        MediocreMath randomToMax = n -> (int) (Math.random() * n);
+        MediocreMath randomToMax = (n) -> (int) (Math.random() * n);
 
         System.out.println("RandomToMax: " + randomToMax.doMath(40));
         System.out.println("RandomToMax: " + randomToMax.doMath(10));
