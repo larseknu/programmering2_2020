@@ -16,7 +16,7 @@ public class Superhero implements Comparable<Superhero> {
     }
 
     public void addAYear() {
-        this.setAge(this.getAge() + 1);
+        age++;
     }
 
     public String getName() {
