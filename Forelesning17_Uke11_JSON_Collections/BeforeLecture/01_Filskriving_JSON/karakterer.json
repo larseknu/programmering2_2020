@@ -1,0 +1,19 @@
+[ {
+  "klasse" : {
+    "type" : "trollmann",
+    "navn" : "Trollmann",
+    "beskrivelse" : "En magi bruker",
+    "terning" : 6,
+    "trylleformler" : [ "Flammeball", "Taskenspilleri" ]
+  },
+  "level" : 13
+}, {
+  "klasse" : {
+    "type" : "barbar",
+    "navn" : "Barbar",
+    "beskrivelse" : "En sterk fyr",
+    "terning" : 12,
+    "raseriAnfall" : 3
+  },
+  "level" : 10
+} ]

@@ -6,27 +6,33 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        HashMap<Integer, String> maanedsOversikt = new HashMap<>();
+       HashMap<Integer, String> maanedOversikt = new HashMap<>();
 
-        maanedsOversikt.put(1, "Januar");
-        maanedsOversikt.put(2, "Februar");
-        maanedsOversikt.put(2, "Februar");
-        maanedsOversikt.put(2, "Februar");
+       maanedOversikt.put(1, "Januar");
+       maanedOversikt.put(2, "Febru");
+       maanedOversikt.put(2, "Fuar");
+       maanedOversikt.put(2, "Februar");
 
-        // la oss skrive ut inneholdet
-        System.out.println(maanedsOversikt); // som du ser har vi kun 2 par i mappen. Dette er fordi alle keys må være unike
+        System.out.println(maanedOversikt);
 
-        maanedsOversikt.put(3, "Mars");
-        maanedsOversikt.put(4, "April");
+        maanedOversikt.put(3, "Mars");
+        maanedOversikt.put(4, "April");
 
-        System.out.println(maanedsOversikt);
+        System.out.println(maanedOversikt);
 
-        // vi kan da hente valuen til en key slik
-        // verdien til en nøkkel
-        System.out.println("Vi henter her verdien til nøkkelen \"0\": " + maanedsOversikt.get(0));
+        System.out.println("Vi henter her verdien ved hjelp av nökkelen: " + maanedOversikt.get(3));
 
-        for(Integer key : maanedsOversikt.keySet()) {
-            System.out.println(key + " tilsvarer måneden: " + maanedsOversikt.get(key));
+        for (Integer key : maanedOversikt.keySet()) {
+            System.out.println(key + " tilsvarer måneden " + maanedOversikt.get(key));
         }
+
+        for (String value : maanedOversikt.values()) {
+            System.out.println(value);
+        }
+
+        if (!maanedOversikt.containsKey(5))
+           maanedOversikt.put(5, "Mai");
+
+        System.out.println(maanedOversikt);
     }
 }
