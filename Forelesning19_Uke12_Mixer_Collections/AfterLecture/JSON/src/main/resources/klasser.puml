@@ -1,0 +1,27 @@
+@startuml
+
+abstract class Yrke {
+    navn: String
+    beskrivelse: String
+    terning: int
+}
+
+Yrke <|-- Trollmann
+Yrke <|-- Barbar
+Yrke <-- Karakter
+
+class Karakter {
+    navn: String
+    yrke : Yrke
+    level: int
+}
+
+class Barbar {
+    raseriAnfall: int
+}
+
+class Trollmann {
+    trylleformler: ArrayList<String>
+}
+
+@enduml

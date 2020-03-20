@@ -1,0 +1,11 @@
+@startuml
+
+
+
+class Karakter {
+    navn: String
+    level: int
+}
+
+
+@enduml

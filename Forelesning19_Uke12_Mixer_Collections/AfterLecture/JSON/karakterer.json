@@ -1,0 +1,29 @@
+[ {
+  "navn" : "Saeris",
+  "klasse" : {
+    "type" : "trollmann",
+    "navn" : "Spaadoms Trollmann",
+    "beskrivelse" : "En magi bruker",
+    "terning" : 6,
+    "trylleformler" : [ "Flammeball", "Taskenspilleri" ]
+  },
+  "level" : 13,
+  "rase" : {
+    "navn" : "Halv-Alv",
+    "egenskap" : "Beste av to verdener"
+  }
+}, {
+  "navn" : "Trok",
+  "klasse" : {
+    "type" : "barbar",
+    "navn" : "Berserk Barbar",
+    "beskrivelse" : "En sterk fyr",
+    "terning" : 12,
+    "raseriAnfall" : 3
+  },
+  "level" : 10,
+  "rase" : {
+    "navn" : "Halv-Ork",
+    "egenskap" : "Verste av to verdener"
+  }
+} ]
