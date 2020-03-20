@@ -3,14 +3,14 @@ package no.hiof.larseknu.json.model;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 
-@JsonTypeInfo(
+/*@JsonTypeInfo(
         use = JsonTypeInfo.Id.NAME,
         include = JsonTypeInfo.As.PROPERTY,
         property = "type")
 @JsonSubTypes({
         @JsonSubTypes.Type(value = Trollmann.class, name = "trollmann"),
         @JsonSubTypes.Type(value = Barbar.class, name = "barbar")
-})
+})*/
 public abstract class Yrke {
     private String navn, beskrivelse;
     public int terning;
