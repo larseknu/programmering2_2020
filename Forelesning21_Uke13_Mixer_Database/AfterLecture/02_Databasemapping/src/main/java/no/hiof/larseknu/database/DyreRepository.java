@@ -2,10 +2,7 @@ package no.hiof.larseknu.database;
 
 import no.hiof.larseknu.database.model.Dyr;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -21,6 +18,14 @@ public class DyreRepository {
 
     public DyreRepository(Connection connection) {
         this.connection = connection;
+    }
+
+    public DyreRepository(String url, String bruker, String passord) {
+        try {
+            this.connection = DriverManager.getConnection(url, bruker, passord);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
     public Dyr hentDyrMedId(int id) {
